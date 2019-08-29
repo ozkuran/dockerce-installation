@@ -7,8 +7,8 @@ This is a simple installation script for different versions of Docker CE. Initia
 ## Available releases
 
 #### CentOS 7
-- 19.03.01: https://raw.githubusercontent.com/ozkuran/dockerce-installation/master/19.03.0/dc_install.sh
-- 19.03.01: https://raw.githubusercontent.com/ozkuran/dockerce-installation/master/19.03.1/dc_install.sh
+- 19.03.0: https://raw.githubusercontent.com/ozkuran/dockerce-installation/master/19.03.0/dc_install.sh
+- 19.03.1: https://raw.githubusercontent.com/ozkuran/dockerce-installation/master/19.03.1/dc_install.sh
 
 ## Installation procedure
 
